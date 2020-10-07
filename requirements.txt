@@ -1,0 +1,4 @@
+Django
+djangorestframework==3.11.1
+drf-yasg==1.17.1
+django-cors-headers
